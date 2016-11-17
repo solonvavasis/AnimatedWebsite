@@ -1,0 +1,94 @@
+{"rows":[
+        {
+            "dayName":"Tuesday",
+            "dayNum":"1",
+            "month":"September",
+            "lesson":"HCI2",
+			"lecturer":"Mariam Kiouri"
+        },
+        {
+            "dayName":"Thursday",
+            "dayNum":"3",
+            "month":"September",
+            "lesson":"PHP/MySQL",
+			"lecturer":"Apostolos Ioannidis"
+        },
+        {
+            "dayName":"Saturday",
+            "dayNum":"5",
+            "month":"September",
+            "lesson":"Audio Editing",
+			"lecturer":"Kouvelis Panagiotis"
+        },
+        {
+            "dayName":"Tuesday",
+            "dayNum":"8",
+            "month":"September",
+            "lesson":"HCI2",
+			"lecturer":"Mariam Kiouri"
+        },
+        {
+            "dayName":"Thursday",
+            "dayNum":"10",
+            "month":"September",
+            "lesson":"PHP Presentation",
+			"lecturer":"Apostolos Ioannidis"
+        },
+        {
+            "dayName":"Saturday",
+            "dayNum":"12",
+            "month":"September",
+            "lesson":"Interactive Animation Flash",
+			"lecturer":"Mariam Kiouri"
+        },
+        {
+            "dayName":"Tuesday",
+            "dayNum":"15",
+            "month":"September",
+            "lesson":"HCI2",
+			"lecturer":"Mariam Kiouri"
+        },
+         {
+            "dayName":"Thursday",
+            "dayNum":"17",
+            "month":"September",
+            "lesson":"PHP Presentation",
+			"lecturer":"Apostolos Ioannidis"
+        },
+         {
+            "dayName":"Saturday",
+            "dayNum":"19",
+            "month":"September",
+            "lesson":"Interactive Animation Flash",
+			"lecturer":"Mariam Kiouri"
+        },
+         {
+            "dayName":"Tuesday",
+            "dayNum":"22",
+            "month":"September",
+            "lesson":"HCI2",
+			"lecturer":"Mariam Kiouri"
+        },
+        {
+            "dayName":"Thursday",
+            "dayNum":"24",
+            "month":"September",
+            "lesson":"MVC Frameworks",
+			"lecturer":"Apostolos Ioannidis"
+        },
+        {
+            "dayName":"Saturday",
+            "dayNum":"26",
+            "month":"September",
+            "lesson":"Interactive Animation Flash",
+			"lecturer":"Mariam Kiouri"
+        },
+        {
+            "dayName":"Tuesday",
+            "dayNum":"29",
+            "month":"September",
+            "lesson":"HCI2",
+			"lecturer":"Mariam Kiouri"
+        }
+]}
+

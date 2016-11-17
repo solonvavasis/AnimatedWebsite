@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Animated Website</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <link rel="stylesheet" href="responsiveslides.css">
+  <link rel="stylesheet" href="demo.css">
+  <link href="strip-1.5.9/dist/css/strip.css" rel="stylesheet" type="text/css">
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+  <script src="responsiveslides.min.js"></script>
+  <script src="strip-1.5.9/dist/js/strip.pkgd.min.js"></script>
+  <script src="VavasisJavascript.js"></script>
+
+  
+  
+  
+
+
+
+    
+</head>
+<body>
+	  <div id="wrapper">
+		<div class="section group">
+			<div class="col span_1_of_3 animated_headers anim_php">
+			PHP
+			</div>
+			<div class="col span_1_of_3 animated_headers anim_js">
+			Javascript
+			</div>
+			<div class="col span_1_of_3 animated_headers anim_html">
+			HTML
+			</div>
+		</div> <!--section-->
+  
+		<div class="banner"><img id="test" src="images/sae logo.jpg"/></div>
+		
+		<h1 class="wdd"><p class="shine">Web Design and Development</p></h1>
+		
+		
+		<div class="callbacks_container">
+		  <ul class="rslides" id="slider4">
+			<li>
+				<img src="images/banner-webdevelopment.jpg" alt="">
+				<p class="caption">New Cutting Edge Technologies</p>
+			</li>
+			<li>
+				<img src="images/web design.jpg" alt="">
+				<p class="caption">Web Design And Development</p>
+			</li>
+			<li>
+				<img src="images/webdevelopment.jpg" alt="">
+				<p class="caption">Web Application Development</p>
+			</li>
+		  </ul>
+		</div> <!--callbacks_container-->
+     </div> <!--wrapper-->
+
+  
+  
+  <div class="tabs">
+		<ul class="tab-links">
+			<li class="active"><a href="#tab1">About</a></li>
+			<li><a href="#tab2">Location</a></li>
+			<li><a href="#tab3">Schedule</a></li>
+			<li><a href="#tab4">Images</a></li>
+		</ul> <!--tab-links-->
+	 
+		<div class="tab-content">
+			<div id="tab1" class="tab active">
+				<p class="shine small_header">About Sae</p>
+				<p class="text" id="par1"></p> <!-- par1.txt loads here -->
+				<p class="text" id="par2"></p> <!-- par2.txt loads here -->
+				<p class="more sae" data-slideID="about">Learn More</p>
+				<div id="about" class="hidden_cont about_sae"></div>
+				
+				
+			</div> <!--tab1-->
+	 
+			<div id="tab2" class="tab">
+				<p class="shine small_header">Location and Access</p>
+				<p class="text" id="par3"></p> <!-- par3.txt loads here -->
+				<div class="grow pic">
+					<img src="images/sae.jpg" alt="portrait">
+				</div>
+				<p class="more" data-slideID="location">Accessibility And Transportation</p>
+				<div id="location" class="hidden_cont transport"></div>
+			</div> <!--tab2-->
+	 
+			<div id="tab3" class="tab">
+				<p class="shine small_header">Web 402 Schedule</p>
+				<p class="text" id="par4"></p> <!-- par4.txt loads here -->
+				<p class="schedule" data-slideID="schedule">Schedule Info</p>
+				<div id="schedule" class="hidden_cont">
+				
+					<p class="spring lessons" data-slideID="april">April</p>
+					<div id="april" class="hidden_cont"></div>
+					
+					<p class="spring lessons" data-slideID="may">May</p>
+					<div id="may" class="hidden_cont"></div>
+					
+					<p class="summer lessons" data-slideID="june">June</p>
+					<div id="june" class="hidden_cont"></div>
+					
+					<p class="summer lessons" data-slideID="july">July</p>
+					<div id="july" class="hidden_cont">this is july</div>
+					
+					<p class="summer lessons" data-slideID="august">August</p>
+					<div id="august" class="hidden_cont">
+						<p class="holidays">Summer Holidays</p>
+						<div class="pinacoladas"><img class="left" src="images/pinacolada.jpg"/><img class="center" src="images/a28d9ac6290fe3ad32a311879228eb33.jpg"/><img class="right" src="images/060ab3dd-1f30-469a-93aa-cf1b15c4afdc.jpg"/></div>
+                        <p class="music" onmouseover="PlaySound('mySound')" 
+    						onmouseout="StopSound('mySound')">Awesome <br/>Tune</p>
+                            <audio id='mySound' src='song.mp3'/>
+					</div> <!--august-->
+					
+					<p class="autumn lessons" data-slideID="september">September</p>
+					<div id="september" class="hidden_cont"></div>
+					
+					<p class="autumn lessons" data-slideID="october">October</p>
+					<div id="october" class="hidden_cont"></div>
+				
+				</div> <!--schedule-->
+			</div> <!--tab3-->
+	 
+			<div id="tab4" class="tab">
+				<p class="shine small_header">Image gallery</p>
+				<div class="section group">
+					<div class="col span_1_of_5">
+					<a href="images/image1.jpg" class="strip" data-strip-options="side: 'top' ,maxWidth: 550"><img class="gallery" src="images/image1.jpg"/></a>
+					</div>
+					<div class="col span_1_of_5">
+					<a href="images/image2.jpg" class="strip" data-strip-options="side: 'top' ,maxWidth: 550"><img class="gallery" src="images/image2.jpg"/></a>
+					</div>
+					<div class="col span_1_of_5">
+					<a href="images/image3.jpg" class="strip" data-strip-options="side: 'top' ,maxWidth: 550"><img class="gallery" src="images/image3.jpg"/></a>
+					</div>
+					<div class="col span_1_of_5">
+					<a href="images/image4.jpg" class="strip" data-strip-options="side: 'top' ,maxWidth: 550"><img class="gallery" src="images/image4.jpg"/></a>
+					</div>
+					<div class="col span_1_of_5">
+					<a href="images/image5.jpg" class="strip" data-strip-options="side: 'top' ,maxWidth: 550"><img class="gallery" src="images/image5.jpg"/></a>
+					</div>
+				</div> <!--section group-->
+			</div> <!--tab4-->
+		</div> <!--tab content-->
+  </div> <!--tabs-->
+
+  <div id="footer">
+	<a href="http://www.sae.edu/grc/el/campuses/athens" target="_blank"><img src="images/SAE_LOGO_CIRCLE_whitesae-1024x1024.png"/></a>
+    <a href="https://www.facebook.com/SAEATHENS" target="_blank"><img src="images/Facebook-Home-Logo-300x300.png"/></a>
+    <a href="https://twitter.com/sae_institute" target="_blank"><img src="images/Twitter_circle.png"/></a>
+    <p class="copyright">Copyright 2015 Solon Vavasis Sae Athens</p>
+  </div> <!--footer-->
+  
+  
+</body>
+</html>

@@ -1,0 +1,44 @@
+{"rows":[
+        {
+            "dayName":"Saturday",
+            "dayNum":"18",
+            "month":"April",
+            "lesson":"HTML5",
+			"lecturer":"Lena Kapetanaki"
+        },
+        {
+            "dayName":"Tuesday",
+            "dayNum":"21",
+            "month":"April",
+            "lesson":"HCI1",
+			"lecturer":"Mariam Kiouri"
+        },
+        {
+            "dayName":"Thursday",
+            "dayNum":"23",
+            "month":"April",
+            "lesson":"PHP/MySQL",
+			"lecturer":"Apostolos Ioannidis"
+        },
+        {
+            "dayName":"Saturday",
+            "dayNum":"25",
+            "month":"April",
+            "lesson":"HTML5",
+			"lecturer":"Lena Kapetanaki"
+        },
+        {
+            "dayName":"Tuesday",
+            "dayNum":"28",
+            "month":"April",
+            "lesson":"HCI1",
+			"lecturer":"Mariam Kiouri"
+        },
+        {
+            "dayName":"Thursday",
+            "dayNum":"30",
+            "month":"April",
+            "lesson":"PHP/MySQL",
+			"lecturer":"Apostolos Ioannidis"
+        }
+]}

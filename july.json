@@ -1,0 +1,73 @@
+{"rows":[
+        {
+            "dayName":"Saturday",
+            "dayNum":"4",
+            "month":"July",
+            "lesson":"Video Editing",
+			"lecturer":"Panaritis Ilias"
+        },
+        {
+            "dayName":"Thursday",
+            "dayNum":"9",
+            "month":"July",
+            "lesson":"PHP/MySQL",
+			"lecturer":"Apostolos Ioannidis"
+        },
+        {
+            "dayName":"Saturday",
+            "dayNum":"11",
+            "month":"July",
+            "lesson":"Video Editing",
+			"lecturer":"Panaritis Ilias"
+        },
+        {
+            "dayName":"Tuesday",
+            "dayNum":"14",
+            "month":"July",
+            "lesson":"HCI1",
+			"lecturer":"Mariam Kiouri"
+        },
+        {
+            "dayName":"Thursday",
+            "dayNum":"16",
+            "month":"July",
+            "lesson":"PHP/MySQL",
+			"lecturer":"Apostolos Ioannidis"
+        },
+        {
+            "dayName":"Saturday",
+            "dayNum":"18",
+            "month":"July",
+            "lesson":"HCI1",
+			"lecturer":"Mariam Kiouri"
+        },
+        {
+            "dayName":"Tuesday",
+            "dayNum":"21",
+            "month":"July",
+            "lesson":"HCI1",
+			"lecturer":"Mariam Kiouri"
+        },
+         {
+            "dayName":"Thursday",
+            "dayNum":"23",
+            "month":"July",
+            "lesson":"PHP/MySQL",
+			"lecturer":"Apostolos Ioannidis"
+        },
+         {
+            "dayName":"Saturday",
+            "dayNum":"25",
+            "month":"July",
+            "lesson":"Audio Editing",
+			"lecturer":"Kouvelis Panagiotis"
+        },
+         {
+            "dayName":"Thursday",
+            "dayNum":"30",
+            "month":"July",
+            "lesson":"PHP/MySQL",
+			"lecturer":"Apostolos Ioannidis"
+        }
+]}
+

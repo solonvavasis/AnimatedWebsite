@@ -1,0 +1,72 @@
+{"rows":[
+        {
+            "dayName":"Saturday",
+            "dayNum":"2",
+            "month":"May",
+            "lesson":"HTML5",
+			"lecturer":"Lena Kapetanaki"
+        },
+        {
+            "dayName":"Tuesday",
+            "dayNum":"5",
+            "month":"May",
+            "lesson":"HCI1",
+			"lecturer":"Mariam Kiouri"
+        },
+        {
+            "dayName":"Thursday",
+            "dayNum":"7",
+            "month":"May",
+            "lesson":"PHP/MySQL",
+			"lecturer":"Apostolos Ioannidis"
+        },
+        {
+            "dayName":"Saturday",
+            "dayNum":"9",
+            "month":"May",
+            "lesson":"HTML5",
+			"lecturer":"Lena Kapetanaki"
+        },
+        {
+            "dayName":"Tuesday",
+            "dayNum":"12",
+            "month":"May",
+            "lesson":"HCI1",
+			"lecturer":"Mariam Kiouri"
+        },
+        {
+            "dayName":"Thursday",
+            "dayNum":"14",
+            "month":"May",
+            "lesson":"PHP/MySQL",
+			"lecturer":"Apostolos Ioannidis"
+        },
+        {
+            "dayName":"Saturday",
+            "dayNum":"16",
+            "month":"May",
+            "lesson":"HTML5",
+			"lecturer":"Lena Kapetanaki"
+        },
+         {
+            "dayName":"Tuesday",
+            "dayNum":"26",
+            "month":"May",
+            "lesson":"HCI1",
+			"lecturer":"Mariam Kiouri"
+        },
+         {
+            "dayName":"Thursday",
+            "dayNum":"28",
+            "month":"May",
+            "lesson":"PHP/MySQL",
+			"lecturer":"Apostolos Ioannidis"
+        },
+        {
+            "dayName":"Saturday",
+            "dayNum":"30",
+            "month":"May",
+            "lesson":"JQuery",
+			"lecturer":"Apostolos Ioannidis"
+        }
+]}
